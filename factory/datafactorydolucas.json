@@ -1,0 +1,9 @@
+{
+	"name": "datafactorydolucas",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1923e909-dfd0-4932-bae5-4f2e874d42d2",
+		"tenantId": "3ad9f99c-43af-409e-910a-5a9beb7edf20"
+	}
+}
