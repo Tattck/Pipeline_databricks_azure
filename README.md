@@ -1,6 +1,6 @@
 # Pipeline_databricks_azure
 
-🔍 Descrição Este projeto tem como objetivo automatizar a ingestão e transformação de dados utilizando Azure Data Factory e Databricks. Com a configuração de um gatilho de execução por hora, o pipeline garante o processamento contínuo e eficiente de novos dados, promovendo maior agilidade e escalabilidade no fluxo de trabalho.
+🔍 Este projeto tem como objetivo automatizar a ingestão e transformação de dados utilizando Azure Data Factory e Databricks. Com a configuração de um gatilho de execução por hora, o pipeline garante o processamento contínuo e eficiente de novos dados, promovendo maior agilidade e escalabilidade no fluxo de trabalho.
 
 🚀 Tecnologias Utilizadas
 
